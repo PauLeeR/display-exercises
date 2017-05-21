@@ -1,0 +1,129 @@
+body{
+	font-family: "Arial";
+}
+section{
+	background-color: yellow;
+
+}
+.laboratoria, .transformacion{
+	background-color: yellow;	
+	padding-bottom: 20px;
+	padding-left: 5px;
+	padding-top: 10px;
+}
+
+.es{
+	background-color: #cc2e72;
+	padding-bottom: 30px;
+	padding-left: 5px;	
+	padding-top: 5px;	
+	border: 1px solid black;
+}
+
+.laboratoria2, .transformacion2{
+	margin: 0 auto;
+	display: block;
+	width: 200px;
+	background-color: yellow;	
+	padding-bottom: 20px;
+	padding-left: 10px;
+	padding-top: 10px;
+	margin-bottom: 10px;
+}
+
+.es2{
+	margin: 0 auto;
+	display: block;
+	width: 200px;	
+	background-color: #cc2e72;
+	padding-bottom: 20px;
+	padding-left: 10px;
+	padding-top: 10px;	
+	margin-bottom: 10px;	
+		
+}
+#tres{
+	text-align: center;
+}
+.laboratoria3, .transformacion3{	
+	display: inline-block;	
+	background-color: yellow;
+	padding: 5px;
+	margin-right: 8px;
+}
+
+.es3{
+	display: inline-block;	
+	background-color: #cc2e72;	
+	padding: 5px;	
+	margin-right: 8px;
+}
+
+.laboratoria4, .transformacion4{
+	width: 170px;
+	height: 60px;		
+	display: inline-block;
+	background-color: yellow;
+	padding: 5px;
+	padding-top: 10px;
+	margin: 5px;
+}
+
+.es4{	
+	display: inline-block;	
+	background-color: #cc2e72;	
+	padding: 5px;
+	padding-top: 10px;
+	width: 180px;
+	height: 60px;					
+}
+
+
+.caja1{
+	display: block;
+	background-color: lightblue;
+	width: 50px;
+	height: 50px;
+	padding: 30px;	
+	margin: 20px 20px 10px;	
+}
+.caja_grande2{
+	display: block;	
+	width: 30%;
+	height: 100px;	
+	background-color: pink;
+	padding: 30px;
+	margin: 20px 20px 10px;	
+	margin-top: 5px;		
+}
+.cajita1, .cajita2, .cajita3{
+	display: inline-block;
+	background-color: seashell;	
+	padding: 30px;
+	padding-right: 32px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	width: 50px;
+	height: 50px;
+	margin-top: 5px;
+	border-style: solid;
+}
+
+.cajita4, .cajita5{
+	display: inline-block;	
+	background-color: #8000ff;	
+	padding: 30px;
+	width: 50px;
+	height: 50px;
+	margin: 10px 10px 10px;
+	margin-top: 5px;	
+}
+.caja4{
+	display: inline-block;	
+	background-color: lightgreen;	
+	padding: 30px;
+	width: 50px;
+	height: 50px;
+	margin: 10px 10px 10px;
+	margin-top: 5px;
+}
